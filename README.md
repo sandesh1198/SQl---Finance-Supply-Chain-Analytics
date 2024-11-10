@@ -1,4 +1,4 @@
-[Finance.Supply.Chain.Analytics.-.SQL.PROJECT.pptx](https://github.com/user-attachments/files/17690416/Finance.Supply.Chain.Analytics.-.SQL.PROJECT.pptx)# AtliQ Hardwares Finance & Supply Chain Analytics SQL Project
+(https://github.com/user-attachments/files/17690416/Finance.Supply.Chain.Analytics.-.SQL.PROJECT.pptx)# AtliQ Hardwares Finance & Supply Chain Analytics SQL Project
 Welcome to the AtliQ Hardwares Finance & Supply Chain Analytics Project repository. This repository contains the code and SQL queries utilized for the Finance & Supply Chain Domain section of the Data Analytics Bootcamp at Codebasics.
 
 ## Overview
