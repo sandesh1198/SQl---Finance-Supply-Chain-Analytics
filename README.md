@@ -1,4 +1,4 @@
-# AtliQ Hardwares Finance & Supply Chain Analytics SQL Project
+[Finance.Supply.Chain.Analytics.-.SQL.PROJECT.pptx](https://github.com/user-attachments/files/17690416/Finance.Supply.Chain.Analytics.-.SQL.PROJECT.pptx)# AtliQ Hardwares Finance & Supply Chain Analytics SQL Project
 Welcome to the AtliQ Hardwares Finance & Supply Chain Analytics Project repository. This repository contains the code and SQL queries utilized for the Finance & Supply Chain Domain section of the Data Analytics Bootcamp at Codebasics.
 
 ## Overview
@@ -19,7 +19,8 @@ In APAC, region India ranks 1 in terms of total gross sales.
 
 ## Repository Contents
 1. **SQL Queries**: Contains the SQL queries used to extract and analyze data from the AtliQ Hardwares dataset. [SQL.Queries.pdf](https://github.com/user-attachments/files/17690321/SQL.Queries.pdf)
-2. **PPT**: [Finance.Supply.Chain.Analytics.-.SQL.PROJECT.pptx](https://github.com/user-attachments/files/17690342/Finance.Supply.Chain.Analytics.-.SQL.PROJECT.pptx)
+2. **PPT**: [Finance.Supply.Chain.Analytics.-.SQL.PROJECT.pptx](https://github.com/user-attachments/files/17690415/Finance.Supply.Chain.Analytics.-.SQL.PROJECT.pptx)
+
 3. ## **Project**
    ![sql1](https://github.com/user-attachments/assets/20a2f0c0-f8c5-4513-a976-22b7bbe15a18)
 ![sql2](https://github.com/user-attachments/assets/19b047e4-53ef-4d7b-9a98-74cbb7db5b80)
