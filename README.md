@@ -1,4 +1,4 @@
-![portfolio](https://github.com/user-attachments/assets/aea0ebde-769d-4c73-9ef5-d251bae22120)# AtliQ Hardwares Finance & Supply Chain Analytics SQL Project
+# AtliQ Hardwares Finance & Supply Chain Analytics SQL Project
 Welcome to the AtliQ Hardwares Finance & Supply Chain Analytics Project repository. This repository contains the code and SQL queries utilized for the Finance & Supply Chain Domain section of the Data Analytics Bootcamp at Codebasics.
 
 ## Overview
@@ -46,6 +46,7 @@ In APAC, region India ranks 1 in terms of total gross sales.
 ![sql23](https://github.com/user-attachments/assets/44eae3bb-2d21-448d-ab8a-9bb73745435c)
 ![sql24](https://github.com/user-attachments/assets/b5991386-aca8-49b3-b90c-961b0410862c)
 
+![portfolio](https://github.com/user-attachments/assets/aea0ebde-769d-4c73-9ef5-d251bae22120)
 
 # About Codebasics Data Analytics Bootcamp
 This project is part of the Data Analytics Bootcamp curriculum at Codebasics. The bootcamp equips participants with essential skills and techniques in data analytics, covering various domains and real-world applications.
